@@ -1,0 +1,72 @@
+ ##  invenzione un metodo in vitro per
+ ##  la diagnosi di sarcoma uterino che comprende:
+ ##  a) Determinare il valore di espressione LDHTOT, espresso come
+ ##  mU/ml, in un campione da un soggetto e calcolare le percentuali
+ ##  delle isoforme LDH5, LDH1 e LDH3;
+ ##  b) paragonare i valori ottenuti a valori di riferimento;
+ ##  c) assegnare detto campione ad una classe di rischio.
+ ##  In una forma preferita, detto metodo comprende altresì:
+ ##  - da detti valori di LDH1 e LDH3, calcolare l’indice di rischio UMG,
+ ##  dove UMG = LDH3 + 24/LDH1;
+ ##  - considerare il valore di LDHTOT;
+ ##  - definire un primo indicatore, dove detto primo indicatore mette in
+ ##  correlazione detto UMG e detto LDHTOT, laddove detto campione
+ ##  è classificato come segue sulla base di detto primo indicatore:
+ ##  UMG > 40 – 0.05 * LDHTOT classe c)
+ ##  UMG = 40 – 0.05 * LDHTOT classe b)
+ ##  UMG < 40 – 0.05 * LDHTOT classe a)
+ ##  - considerare il valore dell’isoenzima LDH5;
+ ##  - definire un secondo indicatore, dove detto secondo indicatore
+ ##  mette in correlazione detto UMG e detto LDH5, laddove detto
+ ##  campione, provvisoriamente classificato in classe b) è
+ ##  eventualmente riclassificato come segue sulla base di detto
+ ##  secondo indicatore:
+ ##  LDH5 > 13.7 oppure LDH5 < 3.5 * UMG – 100 classe c)
+ ##  UMG 29 classe a)
+ ##  - assegnare una posizione nello spazio definito dal grafico di figura 1
+ ##  al punto individuato dal valore dell’isoenzima LDH5 e dal valore
+ ##  UMG, definito punto P(LDH5, UMG), e contare quanti dei 50.000
+ ##  punti c e quanti dei 50.000 punti a presenti in detto spazio sono
+ ##  vicini a detto punto P, ove con vicini si intendono quei punti aventi
+ ##  una distanza da detto punto P al di sotto del decimo percentile di
+ ##  F1.B0101.12.IT.8 D.ssa Dorotea RIGAMONTI
+ ##  (Albo iscr. n. 1569B)
+ ##  6
+ ##  5
+ ##  10
+ ##  15
+ ##  20
+ ##  25
+ ##  30
+ ##  tutte le distanze misurate, e quanti dei 50.000 punti c e quanti dei
+ ##  50.000 punti a sono lontani da detto punto P, ove con lontani si
+ ##  intendono quei punti aventi una distanza da detto punto P al di
+ ##  sopra del decimo percentile di tutte le distanze misurate;
+ ##  - calcolare un valore di probabilità p, dove detto valore di probabilità
+ ##  p è così calcolato: p = numero punti c vicini / (numero punti c vicini
+ ##  + numero punti a vicini), laddove detto campione è classificato
+ ##  come segue sulla base di detto terzo indicatore:
+ ##  p> 0.15 classe c)
+ ##  p< 0.01 classe a)
+ ##  0.01< p <0.15 classe b)
+ ##  - laddove due oppure tre indicatori in classe c) significano un rischio
+ ##  elevato o certo di sarcoma;
+ ##  - laddove tre indicatori in classe a) significano un rischio nullo di
+ ##  sarcoma;
+ ##  - laddove i tre indicatori non ricadano nei due raggruppamenti di cui
+ ##  sopra, la conclusione è quella di un basso rischio, tuttavia non
+ ##  nullo, di sarcoma.
+ ##  Detto grafico di cui in figura 1(A) è generato come segue: una nuvola di
+ ##  punti, contrassegnati in grafico con la lettera a, rappresenta 50.000 punti
+ ##  simulati secondo una distribuzione statistica normale bivariata che replica i
+ ##  parametri misurati in pazienti affetti da patologia benigna; una ulteriore
+ ##  nuvola di punti, contrassegnati in grafico con la lettera c, rappresenta
+ ##  50.000 punti simulati secondo una distribuzione statistica uniforme che
+ ##  replica i parametri misurati in pazienti affetti da sarcoma. Per comodità di
+ ##  visualizzazione, nel grafico sono raffigurate solo poche centinaia di punti,
+ ##  rispetto ai 100.000 punti disponibili e utilizzati ai fini del calcolo. Dette due
+ ##  nubi vengono quindi concatenate tra loro. La circonferenza in figura 1(B)
+ ##  ha raggio p.
+ ##  Detto campione è un campione d
+ ##  
+ ##  
